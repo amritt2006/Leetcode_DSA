@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amritt2006/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amritt2006/Leetcode_DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amritt2006/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2540-minimum-common-value](https://github.com/amritt2006/Leetcode_DSA/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
