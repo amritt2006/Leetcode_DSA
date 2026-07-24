@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amritt2006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amritt2006/Leetcode_DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2785-sort-vowels-in-a-string](https://github.com/amritt2006/Leetcode_DSA/tree/master/2785-sort-vowels-in-a-string) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amritt2006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
