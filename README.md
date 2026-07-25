@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/amritt2006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [2540-minimum-common-value](https://github.com/amritt2006/Leetcode_DSA/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/amritt2006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amritt2006/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amritt2006/Leetcode_DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
