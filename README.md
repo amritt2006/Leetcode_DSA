@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/amritt2006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0152-maximum-product-subarray](https://github.com/amritt2006/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amritt2006/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/amritt2006/Leetcode_DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/amritt2006/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
