@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritt2006/Leetcode_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
