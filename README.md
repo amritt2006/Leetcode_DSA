@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amritt2006/Leetcode_DSA/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2785-sort-vowels-in-a-string](https://github.com/amritt2006/Leetcode_DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/amritt2006/Leetcode_DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amritt2006/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/amritt2006/Leetcode_DSA/tree/master/2540-minimum-common-value) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/amritt2006/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/amritt2006/Leetcode_DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
