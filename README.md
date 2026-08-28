@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amritt2006/Leetcode_DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/amritt2006/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
