@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amritt2006/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/amritt2006/Leetcode_DSA/tree/master/2540-minimum-common-value) |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/amritt2006/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/amritt2006/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amritt2006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/amritt2006/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
