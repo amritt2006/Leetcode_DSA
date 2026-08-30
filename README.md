@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amritt2006/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/amritt2006/Leetcode_DSA/tree/master/2540-minimum-common-value) |
 ## Simulation
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/amritt2006/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amritt2006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/amritt2006/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
