@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/amritt2006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/amritt2006/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/amritt2006/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amritt2006/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/amritt2006/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritt2006/Leetcode_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
