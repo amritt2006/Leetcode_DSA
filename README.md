@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amritt2006/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/amritt2006/Leetcode_DSA/tree/master/2540-minimum-common-value) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
