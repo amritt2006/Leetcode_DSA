@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/amritt2006/Leetcode_DSA/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amritt2006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
