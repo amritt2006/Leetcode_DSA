@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/amritt2006/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amritt2006/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/amritt2006/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amritt2006/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/amritt2006/Leetcode_DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/amritt2006/Leetcode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/amritt2006/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/amritt2006/Leetcode_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/amritt2006/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
