@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amritt2006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/amritt2006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/amritt2006/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/amritt2006/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/amritt2006/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amritt2006/Leetcode_DSA/tree/master/0198-house-robber) |
@@ -184,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/amritt2006/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/amritt2006/Leetcode_DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/amritt2006/Leetcode_DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
