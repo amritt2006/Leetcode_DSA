@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amritt2006/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/amritt2006/Leetcode_DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amritt2006/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amritt2006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amritt2006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amritt2006/Leetcode_DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/amritt2006/Leetcode_DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/amritt2006/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/amritt2006/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amritt2006/Leetcode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amritt2006/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
